@@ -11,7 +11,7 @@
   "author": "Mauzi",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-util-is": "^1.0.2",
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
